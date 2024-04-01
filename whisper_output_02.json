@@ -1,0 +1,1384 @@
+{
+    "text": " - Look with you. - Okay. There are four of us, my parents, Jim Rice and Paula Yazgo Rice, and my older brother. He was born in 1941 in Cleveland, where my father, my parents were living, my father was a social worker. And my early... Okay, just for the chronology, and it's in the piece about that the JDC put together earlier this summer. Um, while there was a, uh, social worker and, um, in 1944, he joined the Joint Distribution Committee and went overseas in June 1945, just a month after the E day. And spent a year setting up DE camps, primarily for Jewish orphans in Austria. My mother was with my brother in Cleveland. My mother had grown up in New York mostly, and we have letters where she complained about Cleveland as a hiccup. (laughing) But there she was. And in 1946, when my father was back at home, but very much being recruited by JDC to come back to Europe. And that was arranged so that my family, my mother and brother could join in in Paris. And the family story is my mother had two conditions to move to Paris in 1946.",
+    "chunks": [
+        {
+            "text": " - Look",
+            "timestamp": [
+                0,
+                0.26
+            ]
+        },
+        {
+            "text": " with",
+            "timestamp": [
+                0.26,
+                0.48
+            ]
+        },
+        {
+            "text": " you.",
+            "timestamp": [
+                0.48,
+                0.76
+            ]
+        },
+        {
+            "text": " - Okay.",
+            "timestamp": [
+                0.76,
+                3.36
+            ]
+        },
+        {
+            "text": " There",
+            "timestamp": [
+                5.18,
+                6.78
+            ]
+        },
+        {
+            "text": " are",
+            "timestamp": [
+                6.78,
+                6.9
+            ]
+        },
+        {
+            "text": " four",
+            "timestamp": [
+                6.9,
+                7.02
+            ]
+        },
+        {
+            "text": " of",
+            "timestamp": [
+                7.02,
+                7.18
+            ]
+        },
+        {
+            "text": " us,",
+            "timestamp": [
+                7.18,
+                8.58
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                8.58,
+                8.72
+            ]
+        },
+        {
+            "text": " parents,",
+            "timestamp": [
+                8.72,
+                10.28
+            ]
+        },
+        {
+            "text": " Jim",
+            "timestamp": [
+                10.28,
+                10.5
+            ]
+        },
+        {
+            "text": " Rice",
+            "timestamp": [
+                10.5,
+                10.94
+            ]
+        },
+        {
+            "text": " and",
+            "timestamp": [
+                10.94,
+                11.64
+            ]
+        },
+        {
+            "text": " Paula",
+            "timestamp": [
+                11.64,
+                12.04
+            ]
+        },
+        {
+            "text": " Yazgo",
+            "timestamp": [
+                12.04,
+                12.52
+            ]
+        },
+        {
+            "text": " Rice,",
+            "timestamp": [
+                12.52,
+                13.56
+            ]
+        },
+        {
+            "text": " and",
+            "timestamp": [
+                13.56,
+                13.74
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                13.74,
+                13.9
+            ]
+        },
+        {
+            "text": " older",
+            "timestamp": [
+                13.9,
+                14.12
+            ]
+        },
+        {
+            "text": " brother.",
+            "timestamp": [
+                14.12,
+                15.66
+            ]
+        },
+        {
+            "text": " He",
+            "timestamp": [
+                15.66,
+                15.7
+            ]
+        },
+        {
+            "text": " was",
+            "timestamp": [
+                15.7,
+                15.94
+            ]
+        },
+        {
+            "text": " born",
+            "timestamp": [
+                15.94,
+                16.26
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                16.26,
+                16.64
+            ]
+        },
+        {
+            "text": " 1941",
+            "timestamp": [
+                16.64,
+                17.72
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                17.72,
+                20.88
+            ]
+        },
+        {
+            "text": " Cleveland,",
+            "timestamp": [
+                20.88,
+                21.24
+            ]
+        },
+        {
+            "text": " where",
+            "timestamp": [
+                21.24,
+                22.66
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                22.66,
+                23.4
+            ]
+        },
+        {
+            "text": " father,",
+            "timestamp": [
+                23.4,
+                24.4
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                24.4,
+                24.4
+            ]
+        },
+        {
+            "text": " parents",
+            "timestamp": [
+                24.4,
+                24.88
+            ]
+        },
+        {
+            "text": " were",
+            "timestamp": [
+                24.88,
+                25.06
+            ]
+        },
+        {
+            "text": " living,",
+            "timestamp": [
+                25.04,
+                25.36
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                25.36,
+                25.44
+            ]
+        },
+        {
+            "text": " father",
+            "timestamp": [
+                25.44,
+                25.66
+            ]
+        },
+        {
+            "text": " was",
+            "timestamp": [
+                25.66,
+                25.86
+            ]
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                25.86,
+                26.08
+            ]
+        },
+        {
+            "text": " social",
+            "timestamp": [
+                26.08,
+                26.36
+            ]
+        },
+        {
+            "text": " worker.",
+            "timestamp": [
+                26.36,
+                29.38
+            ]
+        },
+        {
+            "text": " And",
+            "timestamp": [
+                29.38,
+                30.52
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                30.52,
+                30.94
+            ]
+        },
+        {
+            "text": " early...",
+            "timestamp": [
+                30.94,
+                35.02
+            ]
+        },
+        {
+            "text": " Okay,",
+            "timestamp": [
+                35.14,
+                36.92
+            ]
+        },
+        {
+            "text": " just",
+            "timestamp": [
+                36.92,
+                36.92
+            ]
+        },
+        {
+            "text": " for",
+            "timestamp": [
+                36.92,
+                37.14
+            ]
+        },
+        {
+            "text": " the",
+            "timestamp": [
+                37.14,
+                37.32
+            ]
+        },
+        {
+            "text": " chronology,",
+            "timestamp": [
+                37.32,
+                38.74
+            ]
+        },
+        {
+            "text": " and",
+            "timestamp": [
+                38.74,
+                38.98
+            ]
+        },
+        {
+            "text": " it's",
+            "timestamp": [
+                38.98,
+                39.24
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                39.24,
+                39.56
+            ]
+        },
+        {
+            "text": " the",
+            "timestamp": [
+                39.56,
+                40.28
+            ]
+        },
+        {
+            "text": " piece",
+            "timestamp": [
+                40.28,
+                40.68
+            ]
+        },
+        {
+            "text": " about",
+            "timestamp": [
+                40.68,
+                41.82
+            ]
+        },
+        {
+            "text": " that",
+            "timestamp": [
+                41.82,
+                42.04
+            ]
+        },
+        {
+            "text": " the",
+            "timestamp": [
+                42.04,
+                42.16
+            ]
+        },
+        {
+            "text": " JDC",
+            "timestamp": [
+                42.16,
+                42.62
+            ]
+        },
+        {
+            "text": " put",
+            "timestamp": [
+                42.62,
+                43.02
+            ]
+        },
+        {
+            "text": " together",
+            "timestamp": [
+                43.02,
+                43.54
+            ]
+        },
+        {
+            "text": " earlier",
+            "timestamp": [
+                44.1,
+                44.54
+            ]
+        },
+        {
+            "text": " this",
+            "timestamp": [
+                44.54,
+                45.14
+            ]
+        },
+        {
+            "text": " summer.",
+            "timestamp": [
+                45.14,
+                46.56
+            ]
+        },
+        {
+            "text": " Um,",
+            "timestamp": [
+                46.56,
+                47.18
+            ]
+        },
+        {
+            "text": " while",
+            "timestamp": [
+                47.18,
+                47.3
+            ]
+        },
+        {
+            "text": " there",
+            "timestamp": [
+                47.3,
+                47.52
+            ]
+        },
+        {
+            "text": " was",
+            "timestamp": [
+                47.52,
+                47.96
+            ]
+        },
+        {
+            "text": " a,",
+            "timestamp": [
+                47.96,
+                48.44
+            ]
+        },
+        {
+            "text": " uh,",
+            "timestamp": [
+                48.44,
+                50.04
+            ]
+        },
+        {
+            "text": " social",
+            "timestamp": [
+                50.04,
+                50.04
+            ]
+        },
+        {
+            "text": " worker",
+            "timestamp": [
+                50.04,
+                50.62
+            ]
+        },
+        {
+            "text": " and,",
+            "timestamp": [
+                50.62,
+                52.24
+            ]
+        },
+        {
+            "text": " um,",
+            "timestamp": [
+                52.24,
+                53.64
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                53.64,
+                53.82
+            ]
+        },
+        {
+            "text": " 1944,",
+            "timestamp": [
+                53.82,
+                55.08
+            ]
+        },
+        {
+            "text": " he",
+            "timestamp": [
+                55.08,
+                55.2
+            ]
+        },
+        {
+            "text": " joined",
+            "timestamp": [
+                55.2,
+                55.66
+            ]
+        },
+        {
+            "text": " the",
+            "timestamp": [
+                55.66,
+                56.1
+            ]
+        },
+        {
+            "text": " Joint",
+            "timestamp": [
+                56.1,
+                56.36
+            ]
+        },
+        {
+            "text": " Distribution",
+            "timestamp": [
+                56.36,
+                56.9
+            ]
+        },
+        {
+            "text": " Committee",
+            "timestamp": [
+                57.68,
+                57.68
+            ]
+        },
+        {
+            "text": " and",
+            "timestamp": [
+                57.68,
+                58.48
+            ]
+        },
+        {
+            "text": " went",
+            "timestamp": [
+                58.48,
+                58.76
+            ]
+        },
+        {
+            "text": " overseas",
+            "timestamp": [
+                58.76,
+                59.56
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                59.56,
+                61.06
+            ]
+        },
+        {
+            "text": " June",
+            "timestamp": [
+                61.06,
+                61.54
+            ]
+        },
+        {
+            "text": " 1945,",
+            "timestamp": [
+                61.54,
+                63.2
+            ]
+        },
+        {
+            "text": " just",
+            "timestamp": [
+                63.2,
+                64.12
+            ]
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                64.12,
+                64.28
+            ]
+        },
+        {
+            "text": " month",
+            "timestamp": [
+                64.28,
+                64.56
+            ]
+        },
+        {
+            "text": " after",
+            "timestamp": [
+                64.56,
+                65.06
+            ]
+        },
+        {
+            "text": " the",
+            "timestamp": [
+                65.06,
+                65.4
+            ]
+        },
+        {
+            "text": " E",
+            "timestamp": [
+                65.4,
+                65.62
+            ]
+        },
+        {
+            "text": " day.",
+            "timestamp": [
+                65.62,
+                66.96
+            ]
+        },
+        {
+            "text": " And",
+            "timestamp": [
+                66.96,
+                67.92
+            ]
+        },
+        {
+            "text": " spent",
+            "timestamp": [
+                67.92,
+                68.78
+            ]
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                68.78,
+                69.08
+            ]
+        },
+        {
+            "text": " year",
+            "timestamp": [
+                69.08,
+                69.8
+            ]
+        },
+        {
+            "text": " setting",
+            "timestamp": [
+                69.8,
+                71.34
+            ]
+        },
+        {
+            "text": " up",
+            "timestamp": [
+                71.34,
+                72.22
+            ]
+        },
+        {
+            "text": " DE",
+            "timestamp": [
+                72.22,
+                72.52
+            ]
+        },
+        {
+            "text": " camps,",
+            "timestamp": [
+                72.52,
+                73.18
+            ]
+        },
+        {
+            "text": " primarily",
+            "timestamp": [
+                73.18,
+                73.62
+            ]
+        },
+        {
+            "text": " for",
+            "timestamp": [
+                73.62,
+                74.08
+            ]
+        },
+        {
+            "text": " Jewish",
+            "timestamp": [
+                74.08,
+                74.62
+            ]
+        },
+        {
+            "text": " orphans",
+            "timestamp": [
+                74.62,
+                75.2
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                75.2,
+                75.46
+            ]
+        },
+        {
+            "text": " Austria.",
+            "timestamp": [
+                75.46,
+                76.78
+            ]
+        },
+        {
+            "text": " My",
+            "timestamp": [
+                76.78,
+                77.22
+            ]
+        },
+        {
+            "text": " mother",
+            "timestamp": [
+                77.22,
+                78.48
+            ]
+        },
+        {
+            "text": " was",
+            "timestamp": [
+                78.48,
+                79.4
+            ]
+        },
+        {
+            "text": " with",
+            "timestamp": [
+                79.4,
+                79.72
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                79.72,
+                80.2
+            ]
+        },
+        {
+            "text": " brother",
+            "timestamp": [
+                80.2,
+                80.74
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                80.74,
+                81.46
+            ]
+        },
+        {
+            "text": " Cleveland.",
+            "timestamp": [
+                81.46,
+                82.58
+            ]
+        },
+        {
+            "text": " My",
+            "timestamp": [
+                82.58,
+                83.02
+            ]
+        },
+        {
+            "text": " mother",
+            "timestamp": [
+                83.02,
+                83.46
+            ]
+        },
+        {
+            "text": " had",
+            "timestamp": [
+                83.46,
+                83.8
+            ]
+        },
+        {
+            "text": " grown",
+            "timestamp": [
+                83.8,
+                84
+            ]
+        },
+        {
+            "text": " up",
+            "timestamp": [
+                84,
+                84.32
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                84.32,
+                84.48
+            ]
+        },
+        {
+            "text": " New",
+            "timestamp": [
+                84.48,
+                84.64
+            ]
+        },
+        {
+            "text": " York",
+            "timestamp": [
+                84.64,
+                84.92
+            ]
+        },
+        {
+            "text": " mostly,",
+            "timestamp": [
+                84.92,
+                85.36
+            ]
+        },
+        {
+            "text": " and",
+            "timestamp": [
+                85.36,
+                86.34
+            ]
+        },
+        {
+            "text": " we",
+            "timestamp": [
+                86.34,
+                86.44
+            ]
+        },
+        {
+            "text": " have",
+            "timestamp": [
+                86.44,
+                86.68
+            ]
+        },
+        {
+            "text": " letters",
+            "timestamp": [
+                86.68,
+                87
+            ]
+        },
+        {
+            "text": " where",
+            "timestamp": [
+                87,
+                87.32
+            ]
+        },
+        {
+            "text": " she",
+            "timestamp": [
+                87.32,
+                88.42
+            ]
+        },
+        {
+            "text": " complained",
+            "timestamp": [
+                88.42,
+                88.94
+            ]
+        },
+        {
+            "text": " about",
+            "timestamp": [
+                88.94,
+                89.52
+            ]
+        },
+        {
+            "text": " Cleveland",
+            "timestamp": [
+                89.52,
+                89.98
+            ]
+        },
+        {
+            "text": " as",
+            "timestamp": [
+                90.12,
+                90.52
+            ]
+        },
+        {
+            "text": " a",
+            "timestamp": [
+                90.52,
+                90.68
+            ]
+        },
+        {
+            "text": " hiccup.",
+            "timestamp": [
+                90.68,
+                91.24
+            ]
+        },
+        {
+            "text": " (laughing)",
+            "timestamp": [
+                91.24,
+                92.66
+            ]
+        },
+        {
+            "text": " But",
+            "timestamp": [
+                92.66,
+                93.72
+            ]
+        },
+        {
+            "text": " there",
+            "timestamp": [
+                93.72,
+                94
+            ]
+        },
+        {
+            "text": " she",
+            "timestamp": [
+                94,
+                94.22
+            ]
+        },
+        {
+            "text": " was.",
+            "timestamp": [
+                94.22,
+                96.44
+            ]
+        },
+        {
+            "text": " And",
+            "timestamp": [
+                96.44,
+                97.3
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                97.3,
+                97.8
+            ]
+        },
+        {
+            "text": " 1946,",
+            "timestamp": [
+                97.8,
+                99.06
+            ]
+        },
+        {
+            "text": " when",
+            "timestamp": [
+                101.02,
+                101.34
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                101.34,
+                102.08
+            ]
+        },
+        {
+            "text": " father",
+            "timestamp": [
+                102.08,
+                102.62
+            ]
+        },
+        {
+            "text": " was",
+            "timestamp": [
+                102.62,
+                104.08
+            ]
+        },
+        {
+            "text": " back",
+            "timestamp": [
+                104.3,
+                105.82
+            ]
+        },
+        {
+            "text": " at",
+            "timestamp": [
+                105.82,
+                106.88
+            ]
+        },
+        {
+            "text": " home,",
+            "timestamp": [
+                106.88,
+                109.12
+            ]
+        },
+        {
+            "text": " but",
+            "timestamp": [
+                109.12,
+                109.36
+            ]
+        },
+        {
+            "text": " very",
+            "timestamp": [
+                109.36,
+                109.66
+            ]
+        },
+        {
+            "text": " much",
+            "timestamp": [
+                109.66,
+                110.04
+            ]
+        },
+        {
+            "text": " being",
+            "timestamp": [
+                110.04,
+                111.8
+            ]
+        },
+        {
+            "text": " recruited",
+            "timestamp": [
+                111.8,
+                113.48
+            ]
+        },
+        {
+            "text": " by",
+            "timestamp": [
+                113.48,
+                113.94
+            ]
+        },
+        {
+            "text": " JDC",
+            "timestamp": [
+                113.94,
+                114.54
+            ]
+        },
+        {
+            "text": " to",
+            "timestamp": [
+                114.54,
+                114.8
+            ]
+        },
+        {
+            "text": " come",
+            "timestamp": [
+                114.8,
+                115.08
+            ]
+        },
+        {
+            "text": " back",
+            "timestamp": [
+                115.08,
+                115.42
+            ]
+        },
+        {
+            "text": " to",
+            "timestamp": [
+                115.42,
+                115.6
+            ]
+        },
+        {
+            "text": " Europe.",
+            "timestamp": [
+                115.6,
+                117.06
+            ]
+        },
+        {
+            "text": " And",
+            "timestamp": [
+                117.18,
+                118.02
+            ]
+        },
+        {
+            "text": " that",
+            "timestamp": [
+                118.02,
+                118.96
+            ]
+        },
+        {
+            "text": " was",
+            "timestamp": [
+                118.96,
+                119.88
+            ]
+        },
+        {
+            "text": " arranged",
+            "timestamp": [
+                119.88,
+                121.06
+            ]
+        },
+        {
+            "text": " so",
+            "timestamp": [
+                121.06,
+                122.12
+            ]
+        },
+        {
+            "text": " that",
+            "timestamp": [
+                122.12,
+                123.42
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                123.42,
+                124.2
+            ]
+        },
+        {
+            "text": " family,",
+            "timestamp": [
+                124.2,
+                125.52
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                125.52,
+                125.86
+            ]
+        },
+        {
+            "text": " mother",
+            "timestamp": [
+                125.86,
+                126.16
+            ]
+        },
+        {
+            "text": " and",
+            "timestamp": [
+                126.16,
+                126.32
+            ]
+        },
+        {
+            "text": " brother",
+            "timestamp": [
+                126.32,
+                126.54
+            ]
+        },
+        {
+            "text": " could",
+            "timestamp": [
+                126.54,
+                126.82
+            ]
+        },
+        {
+            "text": " join",
+            "timestamp": [
+                126.82,
+                127.14
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                127.14,
+                127.38
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                127.38,
+                127.72
+            ]
+        },
+        {
+            "text": " Paris.",
+            "timestamp": [
+                127.72,
+                129.2
+            ]
+        },
+        {
+            "text": " And",
+            "timestamp": [
+                129.2,
+                129.56
+            ]
+        },
+        {
+            "text": " the",
+            "timestamp": [
+                129.56,
+                129.68
+            ]
+        },
+        {
+            "text": " family",
+            "timestamp": [
+                129.68,
+                130.18
+            ]
+        },
+        {
+            "text": " story",
+            "timestamp": [
+                130.18,
+                130.64
+            ]
+        },
+        {
+            "text": " is",
+            "timestamp": [
+                130.64,
+                131.28
+            ]
+        },
+        {
+            "text": " my",
+            "timestamp": [
+                131.28,
+                131.46
+            ]
+        },
+        {
+            "text": " mother",
+            "timestamp": [
+                131.46,
+                131.66
+            ]
+        },
+        {
+            "text": " had",
+            "timestamp": [
+                131.66,
+                131.92
+            ]
+        },
+        {
+            "text": " two",
+            "timestamp": [
+                131.92,
+                132.2
+            ]
+        },
+        {
+            "text": " conditions",
+            "timestamp": [
+                132.2,
+                132.86
+            ]
+        },
+        {
+            "text": " to",
+            "timestamp": [
+                132.86,
+                133.66
+            ]
+        },
+        {
+            "text": " move",
+            "timestamp": [
+                133.66,
+                133.92
+            ]
+        },
+        {
+            "text": " to",
+            "timestamp": [
+                133.92,
+                134.2
+            ]
+        },
+        {
+            "text": " Paris",
+            "timestamp": [
+                134.2,
+                134.54
+            ]
+        },
+        {
+            "text": " in",
+            "timestamp": [
+                134.54,
+                134.94
+            ]
+        },
+        {
+            "text": " 1946.",
+            "timestamp": [
+                134.94,
+                135.72
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2022 @@
+{
+    "text": " One of the most useful things you can learn as an intermediate Python student is comprehension. List comprehension looks something like this. Imagine we had a list of names, Tom, Cat, and Bob. And I imagine we wanted to grab just the first letter of each of these names. We can do so with list comprehension. Believe it or not, this code is identical to the result that you would get from this code here. Let's break down list comprehension step by step. First, we have our list of names, Tom, Bob, and Cat. Now we're going to use list comprehension. In this case, we're creating an object called L, and it's going to grab the first letter of each of these names. First, we create our object L. This is where we're going to start creating a list that's going to be populated by our comprehension. The comprehension segment comes right here. First, we open up a list just as we normally would. Next, we're going to grab the first index for each thing that we're going to iterate over, in this case N. And then the second component of list comprehension is a standard for loop. And if you print this off, we get the exact result that we would expect. The first letter of each name.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.56,
+            "text": " One of the most useful things you can learn",
+            "tokens": [
+                50364,
+                1485,
+                295,
+                264,
+                881,
+                4420,
+                721,
+                291,
+                393,
+                1466,
+                50446
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " One",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.806640625
+                },
+                {
+                    "word": " of",
+                    "start": 0.18,
+                    "end": 0.18,
+                    "probability": 0.99755859375
+                },
+                {
+                    "word": " the",
+                    "start": 0.18,
+                    "end": 0.26,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " most",
+                    "start": 0.26,
+                    "end": 0.46,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " useful",
+                    "start": 0.46,
+                    "end": 0.74,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " things",
+                    "start": 0.74,
+                    "end": 1.04,
+                    "probability": 0.99755859375
+                },
+                {
+                    "word": " you",
+                    "start": 1.04,
+                    "end": 1.14,
+                    "probability": 0.9931640625
+                },
+                {
+                    "word": " can",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " learn",
+                    "start": 1.32,
+                    "end": 1.56,
+                    "probability": 0.99755859375
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.56,
+            "end": 4.04,
+            "text": " as an intermediate Python student is comprehension.",
+            "tokens": [
+                50446,
+                382,
+                364,
+                19376,
+                15329,
+                3107,
+                307,
+                44991,
+                13,
+                50598
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.97216796875
+                },
+                {
+                    "word": " an",
+                    "start": 1.78,
+                    "end": 1.86,
+                    "probability": 0.9951171875
+                },
+                {
+                    "word": " intermediate",
+                    "start": 1.86,
+                    "end": 2.26,
+                    "probability": 0.9580078125
+                },
+                {
+                    "word": " Python",
+                    "start": 2.26,
+                    "end": 2.7,
+                    "probability": 0.93408203125
+                },
+                {
+                    "word": " student",
+                    "start": 2.7,
+                    "end": 3.14,
+                    "probability": 0.9921875
+                },
+                {
+                    "word": " is",
+                    "start": 3.14,
+                    "end": 3.46,
+                    "probability": 0.98046875
+                },
+                {
+                    "word": " comprehension.",
+                    "start": 3.46,
+                    "end": 4.04,
+                    "probability": 0.72412109375
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.72,
+            "end": 6.68,
+            "text": " List comprehension looks something like this.",
+            "tokens": [
+                50598,
+                17668,
+                44991,
+                1542,
+                746,
+                411,
+                341,
+                13,
+                50712
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " List",
+                    "start": 4.72,
+                    "end": 4.88,
+                    "probability": 0.94921875
+                },
+                {
+                    "word": " comprehension",
+                    "start": 4.88,
+                    "end": 5.36,
+                    "probability": 0.8583984375
+                },
+                {
+                    "word": " looks",
+                    "start": 5.36,
+                    "end": 5.74,
+                    "probability": 0.94287109375
+                },
+                {
+                    "word": " something",
+                    "start": 5.74,
+                    "end": 6.06,
+                    "probability": 0.98291015625
+                },
+                {
+                    "word": " like",
+                    "start": 6.06,
+                    "end": 6.3,
+                    "probability": 0.99951171875
+                },
+                {
+                    "word": " this.",
+                    "start": 6.3,
+                    "end": 6.68,
+                    "probability": 0.99951171875
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.0,
+            "end": 9.54,
+            "text": " Imagine we had a list of names, Tom, Cat, and Bob.",
+            "tokens": [
+                50712,
+                11739,
+                321,
+                632,
+                257,
+                1329,
+                295,
+                5288,
+                11,
+                5041,
+                11,
+                9565,
+                11,
+                293,
+                6085,
+                13,
+                50846
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " Imagine",
+                    "start": 7.0,
+                    "end": 7.28,
+                    "probability": 0.99462890625
+                },
+                {
+                    "word": " we",
+                    "start": 7.28,
+                    "end": 7.46,
+                    "probability": 0.994140625
+                },
+                {
+                    "word": " had",
+                    "start": 7.46,
+                    "end": 7.6,
+                    "probability": 0.99462890625
+                },
+                {
+                    "word": " a",
+                    "start": 7.6,
+                    "end": 7.68,
+                    "probability": 0.99560546875
+                },
+                {
+                    "word": " list",
+                    "start": 7.68,
+                    "end": 7.86,
+                    "probability": 0.99169921875
+                },
+                {
+                    "word": " of",
+                    "start": 7.86,
+                    "end": 7.98,
+                    "probability": 0.99853515625
+                },
+                {
+                    "word": " names,",
+                    "start": 7.98,
+                    "end": 8.34,
+                    "probability": 0.99658203125
+                },
+                {
+                    "word": " Tom,",
+                    "start": 8.4,
+                    "end": 8.66,
+                    "probability": 0.93212890625
+                },
+                {
+                    "word": " Cat,",
+                    "start": 8.66,
+                    "end": 8.94,
+                    "probability": 0.33349609375
+                },
+                {
+                    "word": " and",
+                    "start": 9.1,
+                    "end": 9.24,
+                    "probability": 0.99853515625
+                },
+                {
+                    "word": " Bob.",
+                    "start": 9.24,
+                    "end": 9.54,
+                    "probability": 0.96826171875
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 9.72,
+            "end": 11.8,
+            "text": " And I imagine we wanted to grab just the first letter",
+            "tokens": [
+                50846,
+                400,
+                286,
+                3811,
+                321,
+                1415,
+                281,
+                4444,
+                445,
+                264,
+                700,
+                5063,
+                50960
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 9.72,
+                    "end": 9.72,
+                    "probability": 0.33984375
+                },
+                {
+                    "word": " I",
+                    "start": 9.72,
+                    "end": 9.74,
+                    "probability": 0.53564453125
+                },
+                {
+                    "word": " imagine",
+                    "start": 9.74,
+                    "end": 10.06,
+                    "probability": 0.83203125
+                },
+                {
+                    "word": " we",
+                    "start": 10.06,
+                    "end": 10.2,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " wanted",
+                    "start": 10.2,
+                    "end": 10.36,
+                    "probability": 0.98876953125
+                },
+                {
+                    "word": " to",
+                    "start": 10.36,
+                    "end": 10.5,
+                    "probability": 0.99951171875
+                },
+                {
+                    "word": " grab",
+                    "start": 10.5,
+                    "end": 10.72,
+                    "probability": 0.99560546875
+                },
+                {
+                    "word": " just",
+                    "start": 10.72,
+                    "end": 11.02,
+                    "probability": 0.99365234375
+                },
+                {
+                    "word": " the",
+                    "start": 11.02,
+                    "end": 11.16,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " first",
+                    "start": 11.16,
+                    "end": 11.48,
+                    "probability": 0.99658203125
+                },
+                {
+                    "word": " letter",
+                    "start": 11.48,
+                    "end": 11.8,
+                    "probability": 0.99609375
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 11.8,
+            "end": 12.86,
+            "text": " of each of these names.",
+            "tokens": [
+                50960,
+                295,
+                1184,
+                295,
+                613,
+                5288,
+                13,
+                51022
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 11.8,
+                    "end": 12.06,
+                    "probability": 0.9951171875
+                },
+                {
+                    "word": " each",
+                    "start": 12.06,
+                    "end": 12.2,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " of",
+                    "start": 12.2,
+                    "end": 12.28,
+                    "probability": 0.99755859375
+                },
+                {
+                    "word": " these",
+                    "start": 12.28,
+                    "end": 12.42,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " names.",
+                    "start": 12.42,
+                    "end": 12.86,
+                    "probability": 0.99853515625
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 13.18,
+            "end": 14.84,
+            "text": " We can do so with list comprehension.",
+            "tokens": [
+                51022,
+                492,
+                393,
+                360,
+                370,
+                365,
+                1329,
+                44991,
+                13,
+                51136
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 13.18,
+                    "end": 13.28,
+                    "probability": 0.99267578125
+                },
+                {
+                    "word": " can",
+                    "start": 13.28,
+                    "end": 13.5,
+                    "probability": 0.9951171875
+                },
+                {
+                    "word": " do",
+                    "start": 13.5,
+                    "end": 13.66,
+                    "probability": 0.99853515625
+                },
+                {
+                    "word": " so",
+                    "start": 13.66,
+                    "end": 13.9,
+                    "probability": 0.99462890625
+                },
+                {
+                    "word": " with",
+                    "start": 13.9,
+                    "end": 14.04,
+                    "probability": 0.99853515625
+                },
+                {
+                    "word": " list",
+                    "start": 14.04,
+                    "end": 14.26,
+                    "probability": 0.488525390625
+                },
+                {
+                    "word": " comprehension.",
+                    "start": 14.26,
+                    "end": 14.84,
+                    "probability": 0.9970703125
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 15.46,
+            "end": 18.34,
+            "text": " Believe it or not, this code is identical to the result",
+            "tokens": [
+                51136,
+                21486,
+                309,
+                420,
+                406,
+                11,
+                341,
+                3089,
+                307,
+                14800,
+                281,
+                264,
+                1874,
+                51286
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " Believe",
+                    "start": 15.46,
+                    "end": 15.64,
+                    "probability": 0.97265625
+                },
+                {
+                    "word": " it",
+                    "start": 15.64,
+                    "end": 15.82,
+                    "probability": 0.98583984375
+                },
+                {
+                    "word": " or",
+                    "start": 15.82,
+                    "end": 15.82,
+                    "probability": 1.0
+                },
+                {
+                    "word": " not,",
+                    "start": 15.82,
+                    "end": 15.98,
+                    "probability": 1.0
+                },
+                {
+                    "word": " this",
+                    "start": 16.14,
+                    "end": 16.3,
+                    "probability": 0.99658203125
+                },
+                {
+                    "word": " code",
+                    "start": 16.3,
+                    "end": 16.58,
+                    "probability": 0.9912109375
+                },
+                {
+                    "word": " is",
+                    "start": 16.58,
+                    "end": 16.98,
+                    "probability": 0.9951171875
+                },
+                {
+                    "word": " identical",
+                    "start": 16.98,
+                    "end": 17.56,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " to",
+                    "start": 17.56,
+                    "end": 17.94,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " the",
+                    "start": 17.94,
+                    "end": 18.02,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " result",
+                    "start": 18.02,
+                    "end": 18.34,
+                    "probability": 0.98193359375
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 18.34,
+            "end": 20.22,
+            "text": " that you would get from this code here.",
+            "tokens": [
+                51286,
+                300,
+                291,
+                576,
+                483,
+                490,
+                341,
+                3089,
+                510,
+                13,
+                51390
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 18.34,
+                    "end": 18.5,
+                    "probability": 0.94091796875
+                },
+                {
+                    "word": " you",
+                    "start": 18.5,
+                    "end": 18.56,
+                    "probability": 0.98974609375
+                },
+                {
+                    "word": " would",
+                    "start": 18.56,
+                    "end": 18.68,
+                    "probability": 0.98486328125
+                },
+                {
+                    "word": " get",
+                    "start": 18.68,
+                    "end": 18.84,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " from",
+                    "start": 18.84,
+                    "end": 19.08,
+                    "probability": 0.99755859375
+                },
+                {
+                    "word": " this",
+                    "start": 19.08,
+                    "end": 19.58,
+                    "probability": 0.98828125
+                },
+                {
+                    "word": " code",
+                    "start": 19.58,
+                    "end": 19.86,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " here.",
+                    "start": 19.86,
+                    "end": 20.22,
+                    "probability": 0.9951171875
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 20.5,
+            "end": 22.8,
+            "text": " Let's break down list comprehension step by step.",
+            "tokens": [
+                51390,
+                961,
+                311,
+                1821,
+                760,
+                1329,
+                44991,
+                1823,
+                538,
+                1823,
+                13,
+                51522
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 20.5,
+                    "end": 20.7,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " break",
+                    "start": 20.7,
+                    "end": 20.88,
+                    "probability": 0.93603515625
+                },
+                {
+                    "word": " down",
+                    "start": 20.88,
+                    "end": 21.2,
+                    "probability": 0.99755859375
+                },
+                {
+                    "word": " list",
+                    "start": 21.2,
+                    "end": 21.48,
+                    "probability": 0.46728515625
+                },
+                {
+                    "word": " comprehension",
+                    "start": 21.48,
+                    "end": 21.94,
+                    "probability": 0.96337890625
+                },
+                {
+                    "word": " step",
+                    "start": 21.94,
+                    "end": 22.34,
+                    "probability": 0.9619140625
+                },
+                {
+                    "word": " by",
+                    "start": 22.34,
+                    "end": 22.52,
+                    "probability": 0.904296875
+                },
+                {
+                    "word": " step.",
+                    "start": 22.52,
+                    "end": 22.8,
+                    "probability": 0.9990234375
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 23.1,
+            "end": 25.58,
+            "text": " First, we have our list of names, Tom, Bob, and Cat.",
+            "tokens": [
+                51522,
+                2386,
+                11,
+                321,
+                362,
+                527,
+                1329,
+                295,
+                5288,
+                11,
+                5041,
+                11,
+                6085,
+                11,
+                293,
+                9565,
+                13,
+                51660
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " First,",
+                    "start": 23.1,
+                    "end": 23.4,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " we",
+                    "start": 23.54,
+                    "end": 23.56,
+                    "probability": 0.99853515625
+                },
+                {
+                    "word": " have",
+                    "start": 23.56,
+                    "end": 23.72,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " our",
+                    "start": 23.72,
+                    "end": 23.84,
+                    "probability": 0.99462890625
+                },
+                {
+                    "word": " list",
+                    "start": 23.84,
+                    "end": 24.08,
+                    "probability": 0.99462890625
+                },
+                {
+                    "word": " of",
+                    "start": 24.08,
+                    "end": 24.22,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " names,",
+                    "start": 24.22,
+                    "end": 24.6,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " Tom,",
+                    "start": 24.64,
+                    "end": 24.94,
+                    "probability": 0.9853515625
+                },
+                {
+                    "word": " Bob,",
+                    "start": 24.94,
+                    "end": 25.2,
+                    "probability": 0.99658203125
+                },
+                {
+                    "word": " and",
+                    "start": 25.2,
+                    "end": 25.3,
+                    "probability": 0.99951171875
+                },
+                {
+                    "word": " Cat.",
+                    "start": 25.3,
+                    "end": 25.58,
+                    "probability": 0.873046875
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 25.92,
+            "end": 27.54,
+            "text": " Now we're going to use list comprehension.",
+            "tokens": [
+                51660,
+                823,
+                321,
+                434,
+                516,
+                281,
+                764,
+                1329,
+                44991,
+                13,
+                51756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.1858801645775364,
+            "compression_ratio": 1.8092105263157894,
+            "no_speech_prob": 0.019405653700232506,
+            "words": [
+                {
+                    "word": " Now",
+                    "start": 25.92,
+                    "end": 26.1,
+                    "probability": 0.98388671875
+                },
+                {
+                    "word": " we're",
+                    "start": 26.1,
+                    "end": 26.2,
+                    "probability": 0.869140625
+                },
+                {
+                    "word": " going",
+                    "start": 26.2,
+                    "end": 26.3,
+                    "probability": 0.67822265625
+                },
+                {
+                    "word": " to",
+                    "start": 26.3,
+                    "end": 26.4,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " use",
+                    "start": 26.4,
+                    "end": 26.58,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " list",
+                    "start": 26.58,
+                    "end": 26.88,
+                    "probability": 0.82373046875
+                },
+                {
+                    "word": " comprehension.",
+                    "start": 26.88,
+                    "end": 27.54,
+                    "probability": 0.99755859375
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2754,
+            "start": 27.54,
+            "end": 29.86,
+            "text": " In this case, we're creating an object called L,",
+            "tokens": [
+                50364,
+                682,
+                341,
+                1389,
+                11,
+                321,
+                434,
+                4084,
+                364,
+                2657,
+                1219,
+                441,
+                11,
+                50490
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 27.54,
+                    "end": 27.9,
+                    "probability": 0.1412353515625
+                },
+                {
+                    "word": " this",
+                    "start": 27.9,
+                    "end": 28.02,
+                    "probability": 0.97802734375
+                },
+                {
+                    "word": " case,",
+                    "start": 28.02,
+                    "end": 28.2,
+                    "probability": 0.99072265625
+                },
+                {
+                    "word": " we're",
+                    "start": 28.26,
+                    "end": 28.4,
+                    "probability": 0.939453125
+                },
+                {
+                    "word": " creating",
+                    "start": 28.4,
+                    "end": 28.62,
+                    "probability": 0.76025390625
+                },
+                {
+                    "word": " an",
+                    "start": 28.62,
+                    "end": 28.82,
+                    "probability": 0.98828125
+                },
+                {
+                    "word": " object",
+                    "start": 28.82,
+                    "end": 29.06,
+                    "probability": 0.990234375
+                },
+                {
+                    "word": " called",
+                    "start": 29.06,
+                    "end": 29.48,
+                    "probability": 0.98876953125
+                },
+                {
+                    "word": " L,",
+                    "start": 29.48,
+                    "end": 29.86,
+                    "probability": 0.54150390625
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2754,
+            "start": 30.16,
+            "end": 33.48,
+            "text": " and it's going to grab the first letter of each of these names.",
+            "tokens": [
+                50490,
+                293,
+                309,
+                311,
+                516,
+                281,
+                4444,
+                264,
+                700,
+                5063,
+                295,
+                1184,
+                295,
+                613,
+                5288,
+                13,
+                50678
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 30.16,
+                    "end": 30.22,
+                    "probability": 0.98828125
+                },
+                {
+                    "word": " it's",
+                    "start": 30.22,
+                    "end": 30.34,
+                    "probability": 0.98486328125
+                },
+                {
+                    "word": " going",
+                    "start": 30.34,
+                    "end": 30.48,
+                    "probability": 0.76513671875
+                },
+                {
+                    "word": " to",
+                    "start": 30.48,
+                    "end": 30.56,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " grab",
+                    "start": 30.56,
+                    "end": 30.86,
+                    "probability": 0.99267578125
+                },
+                {
+                    "word": " the",
+                    "start": 30.86,
+                    "end": 31.1,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " first",
+                    "start": 31.1,
+                    "end": 31.56,
+                    "probability": 0.9765625
+                },
+                {
+                    "word": " letter",
+                    "start": 31.56,
+                    "end": 31.86,
+                    "probability": 0.99560546875
+                },
+                {
+                    "word": " of",
+                    "start": 31.86,
+                    "end": 32.18,
+                    "probability": 0.97412109375
+                },
+                {
+                    "word": " each",
+                    "start": 32.18,
+                    "end": 32.52,
+                    "probability": 0.99267578125
+                },
+                {
+                    "word": " of",
+                    "start": 32.52,
+                    "end": 32.74,
+                    "probability": 0.9912109375
+                },
+                {
+                    "word": " these",
+                    "start": 32.74,
+                    "end": 32.98,
+                    "probability": 0.98876953125
+                },
+                {
+                    "word": " names.",
+                    "start": 32.98,
+                    "end": 33.48,
+                    "probability": 0.99755859375
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2754,
+            "start": 33.82,
+            "end": 35.46,
+            "text": " First, we create our object L.",
+            "tokens": [
+                50678,
+                2386,
+                11,
+                321,
+                1884,
+                527,
+                2657,
+                441,
+                13,
+                50772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " First,",
+                    "start": 33.82,
+                    "end": 34.06,
+                    "probability": 0.92626953125
+                },
+                {
+                    "word": " we",
+                    "start": 34.16,
+                    "end": 34.24,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " create",
+                    "start": 34.24,
+                    "end": 34.44,
+                    "probability": 0.9423828125
+                },
+                {
+                    "word": " our",
+                    "start": 34.44,
+                    "end": 34.56,
+                    "probability": 0.9677734375
+                },
+                {
+                    "word": " object",
+                    "start": 34.56,
+                    "end": 34.88,
+                    "probability": 0.98681640625
+                },
+                {
+                    "word": " L.",
+                    "start": 34.88,
+                    "end": 35.46,
+                    "probability": 0.85498046875
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2754,
+            "start": 35.76,
+            "end": 38.02,
+            "text": " This is where we're going to start creating a list",
+            "tokens": [
+                50772,
+                639,
+                307,
+                689,
+                321,
+                434,
+                516,
+                281,
+                722,
+                4084,
+                257,
+                1329,
+                50892
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " This",
+                    "start": 35.76,
+                    "end": 35.9,
+                    "probability": 0.9873046875
+                },
+                {
+                    "word": " is",
+                    "start": 35.9,
+                    "end": 36.02,
+                    "probability": 0.99658203125
+                },
+                {
+                    "word": " where",
+                    "start": 36.02,
+                    "end": 36.12,
+                    "probability": 0.93896484375
+                },
+                {
+                    "word": " we're",
+                    "start": 36.12,
+                    "end": 36.18,
+                    "probability": 0.9892578125
+                },
+                {
+                    "word": " going",
+                    "start": 36.18,
+                    "end": 36.32,
+                    "probability": 0.9462890625
+                },
+                {
+                    "word": " to",
+                    "start": 36.32,
+                    "end": 36.42,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " start",
+                    "start": 36.42,
+                    "end": 36.8,
+                    "probability": 0.99169921875
+                },
+                {
+                    "word": " creating",
+                    "start": 36.8,
+                    "end": 37.24,
+                    "probability": 0.99365234375
+                },
+                {
+                    "word": " a",
+                    "start": 37.24,
+                    "end": 37.56,
+                    "probability": 0.873046875
+                },
+                {
+                    "word": " list",
+                    "start": 37.56,
+                    "end": 38.02,
+                    "probability": 0.978515625
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "seek": 2754,
+            "start": 38.02,
+            "end": 39.94,
+            "text": " that's going to be populated by our comprehension.",
+            "tokens": [
+                50892,
+                300,
+                311,
+                516,
+                281,
+                312,
+                32998,
+                538,
+                527,
+                44991,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " that's",
+                    "start": 38.02,
+                    "end": 38.26,
+                    "probability": 0.98583984375
+                },
+                {
+                    "word": " going",
+                    "start": 38.26,
+                    "end": 38.42,
+                    "probability": 0.97802734375
+                },
+                {
+                    "word": " to",
+                    "start": 38.42,
+                    "end": 38.42,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " be",
+                    "start": 38.42,
+                    "end": 38.52,
+                    "probability": 0.99951171875
+                },
+                {
+                    "word": " populated",
+                    "start": 38.52,
+                    "end": 39.02,
+                    "probability": 0.98876953125
+                },
+                {
+                    "word": " by",
+                    "start": 39.02,
+                    "end": 39.3,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " our",
+                    "start": 39.3,
+                    "end": 39.46,
+                    "probability": 0.72607421875
+                },
+                {
+                    "word": " comprehension.",
+                    "start": 39.46,
+                    "end": 39.94,
+                    "probability": 0.94384765625
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "seek": 2754,
+            "start": 40.56,
+            "end": 42.68,
+            "text": " The comprehension segment comes right here.",
+            "tokens": [
+                51014,
+                440,
+                44991,
+                9469,
+                1487,
+                558,
+                510,
+                13,
+                51138
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 40.56,
+                    "end": 40.72,
+                    "probability": 0.97900390625
+                },
+                {
+                    "word": " comprehension",
+                    "start": 40.72,
+                    "end": 41.2,
+                    "probability": 0.99169921875
+                },
+                {
+                    "word": " segment",
+                    "start": 41.2,
+                    "end": 41.74,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " comes",
+                    "start": 41.74,
+                    "end": 42.02,
+                    "probability": 0.9873046875
+                },
+                {
+                    "word": " right",
+                    "start": 42.02,
+                    "end": 42.26,
+                    "probability": 0.9951171875
+                },
+                {
+                    "word": " here.",
+                    "start": 42.26,
+                    "end": 42.68,
+                    "probability": 0.9990234375
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "seek": 2754,
+            "start": 43.04,
+            "end": 45.84,
+            "text": " First, we open up a list just as we normally would.",
+            "tokens": [
+                51138,
+                2386,
+                11,
+                321,
+                1269,
+                493,
+                257,
+                1329,
+                445,
+                382,
+                321,
+                5646,
+                576,
+                13,
+                51294
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " First,",
+                    "start": 43.04,
+                    "end": 43.32,
+                    "probability": 0.9873046875
+                },
+                {
+                    "word": " we",
+                    "start": 43.4,
+                    "end": 43.46,
+                    "probability": 0.99755859375
+                },
+                {
+                    "word": " open",
+                    "start": 43.46,
+                    "end": 43.86,
+                    "probability": 0.97998046875
+                },
+                {
+                    "word": " up",
+                    "start": 43.86,
+                    "end": 44.18,
+                    "probability": 0.88720703125
+                },
+                {
+                    "word": " a",
+                    "start": 44.18,
+                    "end": 44.28,
+                    "probability": 0.99169921875
+                },
+                {
+                    "word": " list",
+                    "start": 44.28,
+                    "end": 44.6,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " just",
+                    "start": 44.6,
+                    "end": 44.88,
+                    "probability": 0.71630859375
+                },
+                {
+                    "word": " as",
+                    "start": 44.88,
+                    "end": 45.06,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " we",
+                    "start": 45.06,
+                    "end": 45.14,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " normally",
+                    "start": 45.14,
+                    "end": 45.4,
+                    "probability": 0.99755859375
+                },
+                {
+                    "word": " would.",
+                    "start": 45.4,
+                    "end": 45.84,
+                    "probability": 0.99755859375
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "seek": 2754,
+            "start": 46.24,
+            "end": 48.26,
+            "text": " Next, we're going to grab the first index",
+            "tokens": [
+                51294,
+                3087,
+                11,
+                321,
+                434,
+                516,
+                281,
+                4444,
+                264,
+                700,
+                8186,
+                51408
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " Next,",
+                    "start": 46.24,
+                    "end": 46.54,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " we're",
+                    "start": 46.58,
+                    "end": 46.74,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " going",
+                    "start": 46.74,
+                    "end": 46.86,
+                    "probability": 0.98388671875
+                },
+                {
+                    "word": " to",
+                    "start": 46.86,
+                    "end": 46.96,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " grab",
+                    "start": 46.96,
+                    "end": 47.26,
+                    "probability": 0.9951171875
+                },
+                {
+                    "word": " the",
+                    "start": 47.26,
+                    "end": 47.44,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " first",
+                    "start": 47.44,
+                    "end": 47.84,
+                    "probability": 0.99267578125
+                },
+                {
+                    "word": " index",
+                    "start": 47.84,
+                    "end": 48.26,
+                    "probability": 0.876953125
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "seek": 2754,
+            "start": 48.26,
+            "end": 51.4,
+            "text": " for each thing that we're going to iterate over, in this case N.",
+            "tokens": [
+                51408,
+                337,
+                1184,
+                551,
+                300,
+                321,
+                434,
+                516,
+                281,
+                44497,
+                670,
+                11,
+                294,
+                341,
+                1389,
+                426,
+                13,
+                51568
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 48.26,
+                    "end": 48.6,
+                    "probability": 0.97998046875
+                },
+                {
+                    "word": " each",
+                    "start": 48.6,
+                    "end": 48.88,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " thing",
+                    "start": 48.88,
+                    "end": 49.1,
+                    "probability": 0.99462890625
+                },
+                {
+                    "word": " that",
+                    "start": 49.1,
+                    "end": 49.24,
+                    "probability": 0.93994140625
+                },
+                {
+                    "word": " we're",
+                    "start": 49.24,
+                    "end": 49.26,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " going",
+                    "start": 49.26,
+                    "end": 49.38,
+                    "probability": 0.98974609375
+                },
+                {
+                    "word": " to",
+                    "start": 49.38,
+                    "end": 49.48,
+                    "probability": 0.99853515625
+                },
+                {
+                    "word": " iterate",
+                    "start": 49.48,
+                    "end": 49.7,
+                    "probability": 0.99609375
+                },
+                {
+                    "word": " over,",
+                    "start": 49.7,
+                    "end": 50.34,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " in",
+                    "start": 50.38,
+                    "end": 50.52,
+                    "probability": 0.900390625
+                },
+                {
+                    "word": " this",
+                    "start": 50.52,
+                    "end": 50.68,
+                    "probability": 0.9990234375
+                },
+                {
+                    "word": " case",
+                    "start": 50.68,
+                    "end": 50.94,
+                    "probability": 0.99951171875
+                },
+                {
+                    "word": " N.",
+                    "start": 50.94,
+                    "end": 51.4,
+                    "probability": 0.293212890625
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "seek": 2754,
+            "start": 51.72,
+            "end": 53.44,
+            "text": " And then the second component of list comprehension",
+            "tokens": [
+                51568,
+                400,
+                550,
+                264,
+                1150,
+                6542,
+                295,
+                1329,
+                44991,
+                51676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 51.72,
+                    "end": 51.82,
+                    "probability": 0.77197265625
+                },
+                {
+                    "word": " then",
+                    "start": 51.82,
+                    "end": 51.92,
+                    "probability": 0.9873046875
+                },
+                {
+                    "word": " the",
+                    "start": 51.92,
+                    "end": 52.02,
+                    "probability": 0.8486328125
+                },
+                {
+                    "word": " second",
+                    "start": 52.02,
+                    "end": 52.26,
+                    "probability": 0.99658203125
+                },
+                {
+                    "word": " component",
+                    "start": 52.26,
+                    "end": 52.62,
+                    "probability": 0.99951171875
+                },
+                {
+                    "word": " of",
+                    "start": 52.62,
+                    "end": 52.86,
+                    "probability": 0.99560546875
+                },
+                {
+                    "word": " list",
+                    "start": 52.86,
+                    "end": 53.06,
+                    "probability": 0.1890869140625
+                },
+                {
+                    "word": " comprehension",
+                    "start": 53.06,
+                    "end": 53.44,
+                    "probability": 0.98681640625
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "seek": 2754,
+            "start": 53.44,
+            "end": 54.84,
+            "text": " is a standard for loop.",
+            "tokens": [
+                51676,
+                307,
+                257,
+                3832,
+                337,
+                6367,
+                13,
+                51736
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 53.44,
+                    "end": 53.9,
+                    "probability": 0.98486328125
+                },
+                {
+                    "word": " a",
+                    "start": 53.9,
+                    "end": 54.04,
+                    "probability": 0.94873046875
+                },
+                {
+                    "word": " standard",
+                    "start": 54.04,
+                    "end": 54.3,
+                    "probability": 0.98974609375
+                },
+                {
+                    "word": " for",
+                    "start": 54.3,
+                    "end": 54.58,
+                    "probability": 0.83544921875
+                },
+                {
+                    "word": " loop.",
+                    "start": 54.58,
+                    "end": 54.84,
+                    "probability": 0.94189453125
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "seek": 2754,
+            "start": 55.02,
+            "end": 57.2,
+            "text": " And if you print this off, we get the exact result",
+            "tokens": [
+                51736,
+                400,
+                498,
+                291,
+                4482,
+                341,
+                766,
+                11,
+                321,
+                483,
+                264,
+                1900,
+                1874,
+                51852
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.17166397788307883,
+            "compression_ratio": 1.9230769230769231,
+            "no_speech_prob": 0.01912027969956398,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 55.02,
+                    "end": 55.14,
+                    "probability": 0.92529296875
+                },
+                {
+                    "word": " if",
+                    "start": 55.14,
+                    "end": 55.3,
+                    "probability": 0.490478515625
+                },
+                {
+                    "word": " you",
+                    "start": 55.3,
+                    "end": 55.36,
+                    "probability": 0.7236328125
+                },
+                {
+                    "word": " print",
+                    "start": 55.36,
+                    "end": 55.52,
+                    "probability": 0.99365234375
+                },
+                {
+                    "word": " this",
+                    "start": 55.52,
+                    "end": 55.7,
+                    "probability": 0.9970703125
+                },
+                {
+                    "word": " off,",
+                    "start": 55.7,
+                    "end": 55.94,
+                    "probability": 0.99365234375
+                },
+                {
+                    "word": " we",
+                    "start": 56.12,
+                    "end": 56.22,
+                    "probability": 0.99658203125
+                },
+                {
+                    "word": " get",
+                    "start": 56.22,
+                    "end": 56.42,
+                    "probability": 0.99267578125
+                },
+                {
+                    "word": " the",
+                    "start": 56.42,
+                    "end": 56.56,
+                    "probability": 0.998046875
+                },
+                {
+                    "word": " exact",
+                    "start": 56.56,
+                    "end": 56.92,
+                    "probability": 0.99951171875
+                },
+                {
+                    "word": " result",
+                    "start": 56.92,
+                    "end": 57.2,
+                    "probability": 0.87060546875
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "seek": 5720,
+            "start": 57.2,
+            "end": 58.0,
+            "text": " that we would expect.",
+            "tokens": [
+                50364,
+                300,
+                321,
+                576,
+                2066,
+                13,
+                50408
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.428344165577608,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.01612674444913864,
+            "words": [
+                {
+                    "word": " that",
+                    "start": 57.2,
+                    "end": 57.38,
+                    "probability": 0.68505859375
+                },
+                {
+                    "word": " we",
+                    "start": 57.38,
+                    "end": 57.44,
+                    "probability": 0.96923828125
+                },
+                {
+                    "word": " would",
+                    "start": 57.44,
+                    "end": 57.56,
+                    "probability": 0.98046875
+                },
+                {
+                    "word": " expect.",
+                    "start": 57.56,
+                    "end": 58.0,
+                    "probability": 0.99560546875
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "seek": 5720,
+            "start": 58.24,
+            "end": 59.76,
+            "text": " The first letter of each name.",
+            "tokens": [
+                50408,
+                440,
+                700,
+                5063,
+                295,
+                1184,
+                1315,
+                13,
+                50494
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.428344165577608,
+            "compression_ratio": 0.896551724137931,
+            "no_speech_prob": 0.01612674444913864,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 58.24,
+                    "end": 58.24,
+                    "probability": 0.962890625
+                },
+                {
+                    "word": " first",
+                    "start": 58.24,
+                    "end": 58.46,
+                    "probability": 0.9794921875
+                },
+                {
+                    "word": " letter",
+                    "start": 58.46,
+                    "end": 58.74,
+                    "probability": 0.9921875
+                },
+                {
+                    "word": " of",
+                    "start": 58.74,
+                    "end": 59.12,
+                    "probability": 0.97900390625
+                },
+                {
+                    "word": " each",
+                    "start": 59.12,
+                    "end": 59.42,
+                    "probability": 0.96875
+                },
+                {
+                    "word": " name.",
+                    "start": 59.42,
+                    "end": 59.76,
+                    "probability": 0.99365234375
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
